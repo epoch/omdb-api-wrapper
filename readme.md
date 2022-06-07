@@ -11,9 +11,9 @@ A wrapper library to work with the [OMDB API](https://omdbapi.com/)
 ## Quick start with callbacks
 
 ```js
-const omdbWrapper = require('omdb-api-search')
+const omdbSearch = require('omdb-api-search')
 
-const omdb = omdbWrapper.createClient('OMDB_API_KEY')
+const omdb = omdbSearch.createClient('OMDB_API_KEY')
 
 omdb.findOneByTitle('jaws', (err, movie) => {
   console.log(movie);
