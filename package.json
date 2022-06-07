@@ -1,6 +1,6 @@
 {
   "name": "omdb-api-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper to work with the OMDB API",
   "main": "index.js",
   "scripts": {
