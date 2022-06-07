@@ -5,7 +5,7 @@ A wrapper library to work with the [OMDB API](https://omdbapi.com/)
 ## Installation
 
 ```sh
-% npm install omdb-api-wrapper
+% npm install omdb-api
 ```
 
 ## Quick start with callbacks
