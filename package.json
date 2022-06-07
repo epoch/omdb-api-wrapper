@@ -1,5 +1,5 @@
 {
-  "name": "omdb-api",
+  "name": "omdb-api-search",
   "version": "1.0.0",
   "description": "A wrapper to work with the OMDB API",
   "main": "index.js",
