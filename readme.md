@@ -54,7 +54,7 @@ omdb.findOneByTitle('jaws', (err, movie) => {
 ```
 
 ```js
-omdb.findManyByTitle('jaws'), (err, res => {
+omdb.findManyByTitle('jaws', (err, res) => {
   console.log(res)
 })
 ```
